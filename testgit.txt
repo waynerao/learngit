@@ -1,3 +1,7 @@
 a
 dev branch
+<<<<<<< HEAD
 master branch
+=======
+still dev branch
+>>>>>>> dev
